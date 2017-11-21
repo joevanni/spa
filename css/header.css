@@ -1,0 +1,310 @@
+
+body, html {
+    height: 100%;
+    width:auto;
+	
+	background-image:url(../image/finalheader.png);
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#background
+{
+	
+}
+#side
+{
+	width:214px;
+	height:auto;
+	background-color:rgb(255,213,255);
+	opacity: 0.9;
+	position:absolute;
+	left:50px;
+
+
+}
+#side p
+{
+	margin-left: 55px;
+	
+}
+#side p a
+{
+	text-decoration: none;
+	color:rgb(172,83,13);
+	font-size: 18px;
+
+}
+#side p a:hover
+{
+	text-decoration: underline;
+}
+#qwer
+{
+	margin-left: 5px
+}
+#content
+{
+	width:870px;
+	height:900px;
+	position: absolute;
+	left:380px;
+	background-color:rgb(255,213,255);
+	top:100px;
+}
+#content img
+{
+	width:250px;
+	height:230px;
+	margin-left: 27px;
+	
+}
+#content  p 
+{
+	text-align:center;
+	
+	
+}
+#adjuster
+{
+	position:absolute;
+	width:280px;
+	height:50px;
+	left:620px;
+	top:20px;
+	
+}
+#submit
+{
+	background-image:url(../image/submit.png);
+	width:24px;
+	height: 20px;
+	position: absolute;
+	left:195px;
+	top:3px;
+	border:0px;
+}
+#search
+{
+	width:220px;
+	height: 25px;
+	padding-right:32px;
+
+}
+#numbers
+{
+	text-align: center;	
+	color:green;
+}
+#maps
+{
+	width:320px;
+	height:430px; 
+	background-color: white;
+	position: absolute;
+	float: left;
+	top:450px;
+	left:-30px;
+	border:2px solid#cccccc;
+}
+#maps p
+{
+	font-size: 20px;
+	font-color:#f44;
+}
+#mapadjust
+{
+	position: absolute;
+	top:80px;
+	left:10px;
+}
+#text
+{
+	position:absolute;top:325px;left:15px;
+}
+#filter
+{
+	position: absolute;
+	top:380px;
+	left:100px;
+}
+#footer
+{
+	position:absolute;
+	width:1339px;
+	height:70px;
+	background-color:#585858;
+	top:870px;
+	left:5px;
+
+}
+#footerspa
+{
+	position:absolute;
+	width:1339px;
+	height:70px;
+	background-color:#585858;
+	top:1000px;
+	left:5px;
+}
+#island
+{
+	color:#fff;margin-left:25px;
+	position: absolute;
+	top:30px;
+	font-size: 13px;
+}
+
+#facebook
+{
+	width:30px;
+	height:25px;	
+	background-color: #585858;
+	position: absolute;
+	top:-5px;
+
+}
+#submitcontainer
+{
+	margin-left: 60px;
+	width:700px;
+	height:auto;
+	background-color:#fff;
+}
+#submitcontainer p
+{
+	font-size: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+#formcontainer
+{
+	width:500px;
+	height:auto;
+	
+	margin-top: 20px;
+
+}
+#formcontainer p
+{
+	margin-left:15px;
+}
+#address
+{
+	
+    float: none;
+    
+    text-align: left;
+    font-family: "Helvetica", "Tahoma", "Verdana", "Arial Black", sans-serif;
+    font-size:13px;
+ resize: none;
+  width:230px;
+  height:80px;
+ 
+ 
+}
+#landline
+{
+	
+}
+#for 
+{
+	font-size: 18px;
+	color:rgb(172,83,13);
+	position:absolute;left:390px;
+	width:200px;
+	top:20px;
+	
+	
+}
+#for p 
+{
+	display: inline;
+	font-size: 19px;
+	padding:13px ;
+	
+
+}
+#for p a
+{
+	text-decoration:none;
+	color:rgb(172,83,13);
+}
+#for p a:hover
+{
+	text-decoration:underline;
+	color:rgb(172,83,13);
+}
+#news
+{
+	margin-left: 27px;
+	width:127px;
+	/*-----color:rgb(172,83,13);*/
+	font-size: 18px;
+	
+	
+	
+	
+	
+}
+
+#zis
+{
+	width:460px;
+	position: absolute;
+	display: block;
+	top:78px;
+	left:132px;
+	margin: 0;
+	padding: 0;
+	
+	
+	
+	
+
+ 
+}
+
+#zis p
+{
+	font-size: 17px;
+	display: block;
+		
+}
+#tri
+{
+	position: absolute;
+	top:101px;
+	left:131px;
+}
+#newinfo
+{
+	float: right;
+	
+	
+	
+}
+
+#facebookstyle
+{
+	color:#fff;position:absolute;left:800px;top:25px;
+	width:500px;
+	
+}
+#facebookstyle p
+{
+	display: inline;
+	font-size: 19px;
+	padding:13px ;
+}
+#facebookstyle p a 
+{
+	color:#fff;
+	text-decoration: none;
+}
+#facebookstyle p a:hover
+{
+	
+	text-decoration: underline;
+}

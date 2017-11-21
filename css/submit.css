@@ -1,0 +1,95 @@
+input{
+	width:230px;
+	height: 30px;
+	font-size: 16px;
+
+
+}
+#formcontainer p 
+{
+	margin-left: 30px;
+}
+#contentfooter
+{
+	 position:absolute;
+  width:1339px;
+  height:70px;
+  background-color:#585858;
+  top:1700px;
+  left:5px;
+  margin:0;
+}
+#spacontent
+{
+	width:870px;
+	height:1600px;
+	position: absolute;
+	left:380px;
+	background-color: rgb(255,213,255);
+	top:100px;
+}
+#commentbox
+{
+	width:500px;
+	float: none;
+    height:80px;
+    text-align: left;
+    font-family: "Helvetica", "Tahoma", "Verdana", "Arial Black", sans-serif;
+    font-size:13px;
+ resize: none;
+ scroll-behavior: none;
+}
+#submitcomment
+{
+	width:120px;
+	float:right;
+	margin-right: 140px;
+}
+#des
+{
+	width: 230px;
+	float: none;
+    height:70px;
+    text-align: left;
+    font-family: "Helvetica", "Tahoma", "Verdana", "Arial Black", sans-serif;
+    font-size:13px;
+ resize: none;
+ scroll-behavior: none;
+}
+#hr
+{
+	width: 600px;
+}
+#uploadcontainer
+{
+	width:200px;
+	
+	height:80px;
+}
+#submitlog
+{
+	width:auto;
+	font-size: 16px;
+}
+#btnCancel
+{
+	width: auto;
+	font-size: 16px;
+	margin-left: 5px;
+}
+#editregister
+
+{
+	width:100%;
+ 	height:50px;
+ 	background-color:#585858;
+ 	position: absolute;
+ 	top:960px;
+}
+#editregister p 
+{
+	text-align: center;
+	color:#fff;
+}
+#na
+{margin-left:60px;font-size:19px;}

@@ -1,0 +1,144 @@
+#imagecon
+{
+	width:660px;
+	margin: 0 auto;
+	
+	position:absolute;
+	top:250px;
+	left:110px;
+}
+#main-img
+{
+	width:600px;
+	height: 400px;
+}
+#imagecon ul {padding-left: 29px;}
+#imagecon li {display: inline; margin-right: 3px;}
+#imagecon #main-img {background: url(../image/bg_img.png) no-repeat 0 0;}
+#featured
+{
+	width:740px;
+	height: 250px;
+	position: absolute;
+	top:570px;
+	
+	left:59px;
+}
+#record
+{
+	width:640px;
+	height:500px;
+	
+	top:860px;
+	position: absolute;
+	left:149px;
+}
+.report 
+{
+	width:380px;
+	background-color: #FFC;
+
+}
+#record  p
+{
+	margin: 5px;
+}
+#locate
+{
+position:absolute;top:520px;left:220px;
+}
+#spadexcription  
+{
+	margin-left: 105px;
+}
+
+#entrytable
+{
+	font-size: 22px;
+	background-color: rgba(255,128,0,1);
+	color:#ffffff;
+}
+#entrytable td
+{
+	margin:10px;
+}
+.color
+{
+	background-color: #FFC;
+}
+#sizewidth
+{
+	width:700px;
+	height:auto;
+
+	
+}
+#walak
+{
+	width:635px;height:100px;
+	margin-left:15px
+	
+
+}
+#size
+{
+	text-align: center;
+	
+}
+#adjusterpage
+{
+	
+	margin-left: 20px;
+	width: 80px;
+	height: 50px;
+	background-color: red;
+
+}
+ div#pagination_controls {
+      font-size:17px;
+    }
+    div#pagination_controls > a {
+      color: #06F;
+      text-decoration: none;
+    }
+    div#pagination_controls > a:visited {
+      color: #06F;
+    }
+    div#pagination_controls > a:hover
+    {
+    	text-decoration: underline;
+    }
+
+div#controls {
+      font-size:17px;
+      position: absolute;
+      top:1400px;
+      left:770px;
+    }
+    div#controls > a {
+      color: #06F;
+      text-decoration: none;
+    }
+    div#controls > a:visited {
+      color: #06F;
+    }
+    div#controls > a:hover
+    {
+    	text-decoration: underline;
+    }
+
+ #footerclient
+ {
+ 	width: 100%;
+ 	height:50px;
+ 	background-color:#585858;
+ 
+ 	top:1080px;
+ }
+ #footerclient p
+ {
+ 	text-align: center;
+ 	color:#fff;
+ 	padding-top:5px;
+
+ }

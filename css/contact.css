@@ -1,0 +1,66 @@
+#conta
+{
+	width:400px;
+	height:auto;
+	border:1px solid #cccccc;
+	margin-left: -110px;
+
+}
+#fname
+{
+	width:230px;
+	height: 30px;
+}
+#email
+{
+	width:230px;
+	height: 30px;
+}
+#message
+{
+	width:230px;
+	height:80px;
+}
+#submitlog
+{
+	width:80px;
+	height: 30px;
+}
+#c p 
+{
+	text-align:justify;font-size:17px;margin-right:5px;
+}
+#c p a
+{
+	text-decoration:none;
+}
+#contactfooterspa
+{
+	position:absolute;
+	width:1339px;
+	height:70px;
+	background-color:#585858;
+	top:1100px;
+	left:5px;
+}
+#contactcontent
+{
+	width:870px;
+	height:1000px;
+	position: absolute;
+	left:380px;
+	background-color:rgb(255,213,255);
+	top:100px;
+
+}
+
+#contactform
+{
+	width:700px;
+	height:auto;
+	position: absolute;
+	
+	background-color: #fff;
+	top:479px;
+	
+}
